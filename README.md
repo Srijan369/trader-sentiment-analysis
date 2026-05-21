@@ -160,25 +160,6 @@ pip install -r requirements.txt
 
 ---
 
-# 🔮 Future Improvements
-
-* Add volatility analysis using Bitcoin price data
-* Build interactive dashboard using Streamlit or Power BI
-* Add predictive analytics for trader profitability
-* Analyze leverage and liquidation risks in more detail
-
----
-
 # 📧 Contact
 
 For questions about this analysis, please reach out.
-
----
-
-# ✅ Project Status
-
-Completed Successfully
-📊 Data Science / Analytics Internship Assignment
-
-```
-```
