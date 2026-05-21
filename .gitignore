@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (if large)
+*.csv
+*.xlsx
+!requirements.txt
+
+# Output files (keep structure but ignore data)
+Output/*.csv
+Output/charts/*.png
+!Output/charts/.gitkeep
+!Output/reports/.gitkeep
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
