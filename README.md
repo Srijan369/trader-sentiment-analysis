@@ -1,4 +1,4 @@
-````markdown
+
 # 📊 Trader Performance vs Market Sentiment Analysis
 
 ## 🎯 Project Objective
