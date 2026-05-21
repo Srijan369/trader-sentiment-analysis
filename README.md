@@ -3,7 +3,7 @@
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open Jupyter Notebook: `jupyter notebook`
-4. Run `notebook/analysis.ipynb`
+4. Run `analysis.ipynb`
 
 ## 📊 Visualizations Included
 1. Fear & Greed Index Over Time
@@ -31,6 +31,3 @@
 
 ## 📧 Contact
 For questions about this analysis, please reach out.
-
----
-*Analysis completed as part of Data Science Internship Assignment*
