@@ -24,6 +24,18 @@ This project analyzes how the Bitcoin Fear & Greed Index affects trader behavior
 
 ---
 
+## Methodology
+
+1. Data loading and validation
+2. Missing value and duplicate analysis
+3. Date standardization and dataset alignment
+4. KPI generation (PnL, win rate, leverage, trade frequency)
+5. Sentiment-based comparison (Fear vs Greed)
+6. Trader segmentation analysis
+7. Insight generation and strategy recommendations
+
+---
+
 # 🚀 How to Run
 
 1. Clone this repository
@@ -98,6 +110,10 @@ analysis.ipynb
 * High-frequency traders performed more consistently than low-frequency traders.
 * Low-frequency traders experienced larger losses during Greed periods.
 
+## Business Impact
+
+The analysis helps identify how market sentiment influences trader behavior and profitability, enabling more informed risk management and trading decisions.
+
 ---
 
 # 💡 Recommendations
@@ -162,4 +178,4 @@ pip install -r requirements.txt
 
 # 📧 Contact
 
-For questions about this analysis, please reach out.
+For questions regarding this project, please create an issue in this repository.
